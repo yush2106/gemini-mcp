@@ -4,7 +4,7 @@
 ### Then, build a mcp client to connect the mcp server, use Google Gemini LLM with tools which are on the mcp server and answer user questions.
 
 ## Reference
-For biginers, we could learn the mcp structure and process in the repository of <a href="https://github.com/microsoft/mcp-for-beginners">mcp-for-beginners</a> on Github.
+For biginers, we could learn the mcp structure and process in the repository <a href="https://github.com/microsoft/mcp-for-beginners">mcp-for-beginners</a> of microsoft on Github.
 
 The example of this repository, we use Google Gemini to answer user questions with tools on mcp server. Check the <a href="https://ai.google.dev/gemini-api/docs/function-calling">Function calling with the Gemini API</a>, it has offered some function calling examples and mcp client examples with calling Gemini.
 
