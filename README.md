@@ -1,5 +1,5 @@
 # gemini-mcp
-### This project contain both mcp server and mcp client implementation examples.
+### This project includes both mcp server and mcp client implementation examples.
 ### Create a mcp server with all of the tools or functions, first.
 ### Then, build a mcp client to connect the mcp server, use Google Gemini LLM with tools which are on the mcp server and answer user questions.
 
